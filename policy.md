@@ -3,5 +3,13 @@ By proceeding to contribute to this page, you are herby to agree to the policies
 
 # About
 This repo is for Swift app devs, open-source coders and advanced users. But, this is open to everyone who can use using Swift. You can use our code to your app as long you copy the LICENSE file and add it to your **Open Source License** section of your app.
-## File Update Status
-This file was updated on 12:38PM 11-24-2018 at PH Standard Time.
+## File Update Status and Notes
+This file was updated on 2:37PM 11-25-2018 at PH Standard Time by @AndreiJirohHalili24680. Updates to this Markdown file will be pushed with or without notifications to receive updates (it's depends if you star/watch this GitHub repo). After updat
+
+# Rules and Policies
+By using or editing our source code, you agree to the following rules writen below.
+
+## The Basics
+1. Forking anything on this repo are allowed.
+2. Please remind to enter the code that's safe and sound.
+3. We hate spam. Don't spam anything here.
