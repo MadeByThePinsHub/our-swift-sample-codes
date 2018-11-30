@@ -4,5 +4,6 @@
 /// Using this one on your app or software? Don't forget to copy the LICENSE file to your Copyrights section of your software/app for respect.
 /// This code is made with <3 by the Pins on Github.
 
-for index
-  print(
+for index in 1...100 {
+  print("(index)% resources loaded!")
+}
